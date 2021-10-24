@@ -5,6 +5,7 @@ html {
 
 
 body{
+    font-size: 1.125rem;
     margin: 0 auto;
     text-align: center;
     font-size: 16px;
@@ -34,15 +35,15 @@ p{
 
 .container-nav h1{
     font-family: 'Lora', serif;
-    font-size: 2.4rem;
+    font-size: 2rem;
     margin-bottom: 0;
 }
 
 .container-nav h2{
     font-family: 'Ubuntu', serif;
-    font-size: 0.8rem;
+    font-size: .75rem;
     color: #1792D2;
-    letter-spacing: 0.22rem;
+    letter-spacing: 0.15rem;
 }
 
 .container-nav li{
@@ -54,7 +55,7 @@ p{
 
 
 .content-mid h2{
-    color: #1792D2;
+    color: #143774;
     font-size: 1.5rem;
 }
 #titleContent{
